@@ -131,7 +131,7 @@ cursor: pointer;
 {
   width: 100%;
   padding: 100px 0px;
-  background: url("../background.jpeg") center no-repeat;
+  background: url("../background.jpg") center no-repeat ;
   background-size: cover;
 }
 .social-media-icons
